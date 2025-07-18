@@ -28,9 +28,10 @@ Edit
 
 ## ✅ Completed Projects
 
-| Project           | Algorithm       | Link | Status        |
-|------------------|-----------------|------|---------------|
-| House Prices      | Linear Regression | [Notebook](linear-regression-house-prices/Linear_Regression_House_Price_Prediction.ipynb) | ✅ Complete |
+| Project        | Algorithm        | Link                                                                 | Status        |
+|----------------|------------------|----------------------------------------------------------------------|---------------|
+| House Prices   | Linear Regression| [Notebook](./linear-regression-house-prices/Linear_Regression_House_Price_Prediction.ipynb) | ✅ Complete |
+
 
 
 ---
