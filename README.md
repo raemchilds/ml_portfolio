@@ -28,11 +28,10 @@ Edit
 
 ## ✅ Completed Projects
 
-| Project           | Algorithm       | Dataset           | Status        |
-|------------------|-----------------|-------------------|---------------|
-| Titanic Survival | Decision Tree   | Titanic           | ✅ Complete    |
-| House Prices      | Linear Regression | housing.csv     | ⏳ In Progress |
-| Wine Quality      | Random Forest   | wine_quality.csv  | ⏳ Soon        |
+| Project           | Algorithm       | Link | Status        |
+|------------------|-----------------|------|---------------|
+| House Prices      | Linear Regression | [Notebook](linear-regression-house-prices/Linear_Regression_House_Price_Prediction.ipynb) | ✅ Complete |
+
 
 ---
 
