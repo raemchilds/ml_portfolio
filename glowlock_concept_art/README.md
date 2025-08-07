@@ -1,6 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/YOUR_NOTEBOOK.ipynb)
-
-
 # 🌱 Glowlock Labs – AI Concept Art Generator
 
 This notebook generates storybook-style fantasy concept art for an original world called **Glowlock**, a whimsical and narrative-rich universe with hand-illustrated realms like:
