@@ -25,3 +25,10 @@ Built with:
 3. Paste your Hugging Face token when prompted
 4. Customize the prompt for your desired Glowlock realm
 5. Run the generator and save your image
+
+
+> 🛡️ **Note on Intellectual Property**
+>
+> This project is a visual AI prototype developed for an original fantasy world currently in development.
+> To preserve the integrity of the IP, this repo only includes concept-level descriptions and early design experiments.
+> The world, characters, and story are part of a protected work-in-progress.
