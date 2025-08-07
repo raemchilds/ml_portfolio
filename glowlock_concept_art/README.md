@@ -7,6 +7,9 @@ This notebook generates storybook-style fantasy concept art for an original worl
 - **Jingle Hoof** – a vanilla-snowy Christmas village
 - **Pearl Mist** – an underwater mermaid lagoon
 
+
+*Note: If the notebook doesn’t render on GitHub, open it directly in Google Colab or download and open in Jupyter.*
+
 Built with:
 - 🤗 `runwayml/stable-diffusion-v1-5` (Hugging Face Diffusers)
 - 🚀 GPU acceleration in Google Colab
